@@ -1,0 +1,22 @@
+{
+  "name": "cardashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stockmayr/CarDashboard.git"
+  },
+  "author": "Stockmayr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stockmayr/CarDashboard/issues"
+  },
+  "homepage": "https://github.com/Stockmayr/CarDashboard#readme",
+  "dependencies": {
+    "jquery-knob": "^1.2.11"
+  }
+}
